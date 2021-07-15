@@ -6,6 +6,6 @@ The PSF estmiation takes place iteratively according to a bound given by the pro
 After this a Gradient Descent method is used to recover the image itself using the PSF determined previously.
 This image is further prcoessed and enhanced using modified R-L algorithm before getting qualified as an output.
 
-Now the programmes have been named as tryi.m, which means ith try or ith attempt.
+The implementation is done in matlab and the programmes have been named as tryi.m, which means ith try or ith attempt.
 
 The program was tested on a set of microscopic and telescopic images, the results of which along with the images are provided.
